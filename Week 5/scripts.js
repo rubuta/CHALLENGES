@@ -95,15 +95,14 @@ show("There are " + female + " female and " + male + " male" );
 
 /* HTML DOM
 ---------------------------------------- */
-// GET THE TEXT CONTENT
 const h1 = document.querySelector('h1');
 console.log(h1.innerHTML);
 
-// CHANGE THE TEXT
+
 h1.innerHTML = "patient is every thing!";
 console.log(h1.innerHTML);
 
-// ADD CLASS AND ID 
+
 h1.setAttribute('id', 'main-title');
 h1.setAttribute('class', 'title');
 

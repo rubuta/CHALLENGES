@@ -30,17 +30,17 @@ function totalArea(len, wid) {
   let city = {
    Ethiopia: {
      name: "Ethiopia",
-     population: "2,140,526",
+     population: "114,521,377",
      continent: "Africa"
    },
    France: {
      name: "France",
-     population: "2,140,526",
+     population: "66,999,000",
      continent: "Europe"
    },
    Paris: {
      name: "Paris",
-     population: "2,140,526",
+     population: "2,148,271",
      continent: "Europe"
    }
  }
